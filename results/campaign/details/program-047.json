@@ -1,0 +1,39 @@
+{
+  "interval": {
+    "bounds": [
+      [
+        "1/7",
+        "1"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "1"
+      ],
+      [
+        "1",
+        "1"
+      ],
+      [
+        "1",
+        "1"
+      ],
+      [
+        "1",
+        "1"
+      ]
+    ],
+    "cpu_seconds": 0.0,
+    "result": "unknown"
+  },
+  "random": {
+    "accepted": 64,
+    "attempts": 1111,
+    "cpu_seconds": 0.011996085000000267,
+    "observed_minimum": 6,
+    "result": "observed_counterexample"
+  }
+}

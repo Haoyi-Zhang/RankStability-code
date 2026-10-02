@@ -1,0 +1,39 @@
+{
+  "interval": {
+    "bounds": [
+      [
+        "1/12",
+        "1/2"
+      ],
+      [
+        "1/12",
+        "1"
+      ],
+      [
+        "12/49",
+        "1"
+      ],
+      [
+        "1/12",
+        "1/12"
+      ],
+      [
+        "1/12",
+        "12/49"
+      ],
+      [
+        "1/12",
+        "12/49"
+      ]
+    ],
+    "cpu_seconds": 0.0,
+    "result": "unknown"
+  },
+  "random": {
+    "accepted": 64,
+    "attempts": 1759,
+    "cpu_seconds": 0.015992517000000372,
+    "observed_minimum": 6,
+    "result": "observed_counterexample"
+  }
+}
